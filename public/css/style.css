@@ -1,0 +1,25 @@
+body {
+  background: linear-gradient(-135deg, #b32f2f, #4158d0);
+  color: #fff;
+}
+
+h1 {
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.containerListas {
+  background: #fff;
+}
+
+.formLogin {
+  padding-top: 20%;
+  padding-bottom: 80%;
+  margin: auto;
+  color: #fff;
+}
+
+.labelLogin {
+  color: #fff;
+}
+
